@@ -105,3 +105,9 @@ a {
     color-scheme: dark;
   }
 }
+
+.dmainpage{
+  margin:5%;
+  width: 90vw;
+  height: 90vh;
+}
